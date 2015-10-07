@@ -80,7 +80,7 @@
             <?php
                 if (isset($_POST['email'])) {
 
-                    $to      = 'dave@turissini.io';
+                    $to      = 'abtest@bytemagik.com';
                     $subject = 'AB Test leed';
                     $message = $_POST['email'];
                     $headers = 'From: dave@bytemagik.com' . "\r\n" .
