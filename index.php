@@ -31,6 +31,8 @@
                 position: absolute;
                 top:50%;
                 transform:translateX(-50%) translateY(-50%);
+                -webkit-transform:translateX(-50%) translateY(-50%);
+                -moz-transform:translateX(-50%) translateY(-50%);
                 width:80%;
             }
 
