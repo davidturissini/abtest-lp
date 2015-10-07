@@ -76,7 +76,7 @@
     <body>
         <section class="main">
             <h1>Measure. Convert. Optimize. Repeat.</h1>
-            <h3>Introducing an A/B testing platform for mobile and web that lets you spend more time succeeding rather than trying.</h3>
+            <h3>Introducing an A/B testing platform for mobile and web that lets you spend more time succeeding and less time wondering.</h3>
             <?php
                 if (isset($_POST['email'])) {
 
