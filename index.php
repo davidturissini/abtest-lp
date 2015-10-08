@@ -106,14 +106,14 @@
                 </h3>
             <?php } else { ?>
                 <form method="POST" action="/" class="clearfix">
+                    <p>Sign up now to get notified when we launch. You can rest assured, you're email is safe with us.</p>
                     <div class="col-xs-12 col-sm-9">
                         <input class="form-control" type="text" name="email" placeholder="E-Mail address" />
                     </div>
                     <div class="col-xs-12 col-sm-3">
-                        <input class="btn btn-success pull-right" type="submit" value="I'm interested" />
+                        <input class="btn btn-success pull-right" type="submit" value="Sign up" />
                     </div>
                 </form>
-                <p>Sign up now to get <strong>early</strong> access to news and information as we get closer to release.</p>
             <?php } ?>
         </section>
     </body>
