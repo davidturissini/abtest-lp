@@ -14,7 +14,7 @@
 
         </script>
         <style>
-            
+
             body {
                 background: #004776; /* Old browsers */
                 background: -moz-linear-gradient(top, #004776 0%, #004e6a 100%); /* FF3.6+ */
@@ -106,7 +106,7 @@
                 </h3>
             <?php } else { ?>
                 <form method="POST" action="/" class="clearfix">
-                    <p>Sign up now to get notified when we launch. You can rest assured, you're email is safe with us.</p>
+                    <p>Sign up now to get notified when we launch. You can rest assured, you’re email is safe with us.</p>
                     <div class="col-xs-12 col-sm-9">
                         <input class="form-control" type="text" name="email" placeholder="E-Mail address" />
                     </div>
