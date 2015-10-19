@@ -11,7 +11,7 @@
 <html>
     <head>
         <meta charset="utf8" />
-        <title>A/B Testing Platform</title>
+        <title>Data-Driven Design</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" type="text/css" />
         <script>
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
