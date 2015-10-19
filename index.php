@@ -145,7 +145,7 @@
                         <header>
                             <h1>Introducing Data-Driven Design</h1>
                         </header>
-                        <h3>An A/B testing platform for mobile and web designed to make it easy for you to measure, convert, optimize and repeat. Spend less time wondering and more time converting.</h3>
+                        <h3>An A/B testing platform for mobile and web designed to make it easy for you to optimize everything. Spend less time wondering and more time converting.</h3>
                     <?php } else { ?>
                         <header>
                             <h1>Measure. Convert. Optimize. Repeat.</h1>
